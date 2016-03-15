@@ -17,7 +17,7 @@ Just specify a GitHub repository in the URL and off you go!
 Updates the board when a Pull Request or Issue changes.
 
 Allows Drag and Drop to move Issues/Pull Requests.
-
+ 
 Shows CI status (red/green bar) and merge conflicts (dashed bar):
 
 ![ci status and merge conflicts](https://cloud.githubusercontent.com/assets/253202/10155505/20f04fe0-6644-11e5-8570-b5eb9b2f7702.png)
